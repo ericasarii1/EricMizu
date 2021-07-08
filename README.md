@@ -1,6 +1,6 @@
 
 # [Dofini Photo](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
-# Daisy Based on Python Telegram Bot
+# Dofini Based on Python Telegram Bot
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
@@ -32,7 +32,7 @@ This repo was just revamped to suit an Anime-centric community. All original cre
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Dofini Support](https://t.me/DofiniUpdates) or simply submit a pull request on the readme.
 
 ## Daisy X the telegram Bot Project
 The Advanced Branch (For PRO's)
