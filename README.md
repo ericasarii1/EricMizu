@@ -1,5 +1,5 @@
 
-# [img](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+# [Dofini Photo](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
 # Daisy Based on Python Telegram Bot
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
