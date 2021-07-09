@@ -8,7 +8,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Dofini-OLD)
 
 
-## New version Avaiilable on Telegram as [@Dofini](https://t.me/TheMizuBot)
+## New version Avaiilable on Telegram as [Mizu](https://t.me/TheMizuBot)
 ## Dofiniv2.0 is the latest
 
 
