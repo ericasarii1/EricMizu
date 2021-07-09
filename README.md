@@ -3,10 +3,10 @@
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inukaasith/Daisy-x.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Dofini-OLD)
 
 
-## New version Avaiilable on Telegram as [@Dofini](https://t.me/DofiniDevbot)
+## New version Avaiilable on Telegram as [@Dofini](https://t.me/TheMizuBot)
 ## Dofiniv2.0 is the latest
 
 
@@ -36,8 +36,8 @@ Should any be missing kindly let us know at [Dofini Support](https://t.me/Dofini
 ## Daisy X the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-DaisyX v1.0(advvanced)
+Dofini v1.0(advvanced)
 
 ## Special Credits
-- [ImJanindu](https://github.com/ImJanindu) - A Co-Developer of Project
-- [Kaviya-Admin](https://github.com/kaviya-admin) - A Co-Developer of Project
+- [Pawan Theekshana](https://github.com/ImTheekshanaBro) - A Co-Developer of Project
+- 
