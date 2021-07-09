@@ -1,4 +1,6 @@
-
+<p align="leaft">
+  <img src="https://telegra.ph/file/7bb512fd4c29eb943a13a.jpg" width='600"'>
+</p>
 # Dofini Based on Python Telegram Bot
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
