@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Dofini](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+Hello there, I'm [𝘔𝘪𝘻𝘶 𝘋𝘦𝘷](https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group Developed by t.me/pawan_Theekshana
 
@@ -74,19 +74,19 @@ buttons = [
     [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),  InlineKeyboardButton(text="Developer", callback_data="t.me/Pawan_Theekshana"),
     ],
-    [   InlineKeyboardButton(text="Difini Spport", callback_data="t.me/DifiniSupport_Official"),  InlineKeyboardButton(text="Dofini Updates", callback_data="t.me/DofiniUpdates"),
+    [   InlineKeyboardButton(text="Mizu Spport", callback_data="t.me/MizuSupport_Official"),  InlineKeyboardButton(text="Mizu Updates", callback_data="t.me/MizuUpdates"),
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add DOfini to your group 💫", url="http://t.me/DofiniDevBot?startgroup=true" 
+            text="💫 Add Mizu Dev to your group 💫", url="http://t.me/MizuDevBot?startgroup=true" 
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg)
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
