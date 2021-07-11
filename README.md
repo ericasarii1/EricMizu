@@ -5,7 +5,7 @@
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Mizu-OLD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Mizu-Dev)
 
 
 ## New version Avaiilable on Telegram as [Mizu](https://t.me/TheMizuBot)
